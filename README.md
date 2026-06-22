@@ -1,1 +1,5 @@
+PurpleHR Dashboard: https://app.powerbi.com/view?r=eyJrIjoiZWJhN2JmYzgtZGVkOC00MDA3LWJmYzEtMGFhNGQzZDQ1MTlhIiwidCI6ImFkNDIyMWM1LTQzMTItNGJhYS1iYmVhLThkMmM1MzI2ZmU5MSJ9
+
+Pizza Dashboard Link : https://app.powerbi.com/view?r=eyJrIjoiMWMxZjdiOWYtMGU4ZS00NjI0LTkxNmUtN2MyYjg4YWQxZjYzIiwidCI6ImFkNDIyMWM1LTQzMTItNGJhYS1iYmVhLThkMmM1MzI2ZmU5MSJ9
+
 Superstore Dashboard link : https://app.powerbi.com/view?r=eyJrIjoiMzAzOTlkYzctNGUwMy00NWM1LWEwMmItOTg4YmIxMjNjN2EwIiwidCI6ImFkNDIyMWM1LTQzMTItNGJhYS1iYmVhLThkMmM1MzI2ZmU5MSJ9
