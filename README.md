@@ -4,4 +4,4 @@ Pizza Dashboard Link : https://app.powerbi.com/view?r=eyJrIjoiMWMxZjdiOWYtMGU4ZS
 
 Superstore Dashboard link : https://app.powerbi.com/view?r=eyJrIjoiMzAzOTlkYzctNGUwMy00NWM1LWEwMmItOTg4YmIxMjNjN2EwIiwidCI6ImFkNDIyMWM1LTQzMTItNGJhYS1iYmVhLThkMmM1MzI2ZmU5MSJ9
 
-Bike Dashboard (Excel): https://1drv.ms/x/c/83d4bc398071f201/IQAB8nGAObzUIICDFAEAAAAAAfW6Eej_sfFXCbKBoV8jyEg?e=crCUlu
+Bike Dashboard (Excel): https://1drv.ms/x/c/83d4bc398071f201/IQAB8nGAObzUIICDFAEAAAAAARv-OdFyv04d5NK_CaCjdYo?e=tKGRvl
