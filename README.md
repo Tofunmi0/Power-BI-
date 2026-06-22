@@ -1,2 +1,1 @@
-# Power-BI-
-My Power BI Projects
+Superstore Dashboard link : https://app.powerbi.com/view?r=eyJrIjoiMzAzOTlkYzctNGUwMy00NWM1LWEwMmItOTg4YmIxMjNjN2EwIiwidCI6ImFkNDIyMWM1LTQzMTItNGJhYS1iYmVhLThkMmM1MzI2ZmU5MSJ9
