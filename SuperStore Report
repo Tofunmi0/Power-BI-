@@ -2,16 +2,33 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Super Store Dashboard</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Power BI Project</title>
+    <style>
+        body { 
+            margin: 0; 
+            padding: 0; 
+            display: flex; 
+            justify-content: center; 
+            align-items: center; 
+            height: 100vh; 
+            background-color: #f4f4f4; 
+        }
+        iframe { 
+            width: 90%; 
+            height: 80%; 
+            border: none; 
+            box-shadow: 0 4px 8px rgba(0,0,0,0.1); 
+        }
+    </style>
 </head>
 <body>
-    <h1>Power BI Sales Dashboard</h1>
+
     <iframe 
-        width="100%" 
-        height="600px" 
         src="https://app.powerbi.com/view?r=eyJrIjoiMzAzOTlkYzctNGUwMy00NWM1LWEwMmItOTg4YmIxMjNjN2EwIiwidCI6ImFkNDIyMWM1LTQzMTItNGJhYS1iYmVhLThkMmM1MzI2ZmU5MSJ9" 
         frameborder="0" 
-        allowfullscreen="true">
+        allowFullScreen="true">
     </iframe>
+
 </body>
 </html>
